@@ -9,11 +9,11 @@ Please note that this program is in its early stages of development, so the code
 some unresolved bugs. Contact me if you wish to report any bugs or to make suggestions.
 
 
-##Dependencies:
+##Dependencies
 The ipwhois package, as well as Python 3 are all required to run this program.
 
 
-##Usage:
+##Usage
 First, import a server list you want to filter. This can be done by either entering the list into the field on the left, or by
 importing a file with your server list (in this case, you have to enable importing).
 
@@ -24,6 +24,8 @@ If you want to export the results to a file, enable exporting, and specify the f
 Adjust the filtering settings as they suit you (please note that you can enter either the state/region, the city, or the postal
 code in the locality), and click the "Check" button. The filtering should then start.
 
+##Future updates
+A Windows executable version of the program will be released in the future.
 
-##Contact:
+##Contact
 You can contact me at nullbytes0x00@gmail.com.
