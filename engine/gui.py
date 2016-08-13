@@ -37,10 +37,7 @@ except ImportError:
     raise
     sys.exit("Python 3 is required!")
 
-try:
-    from cgui import *
-except:
-    from engine.cgui import *
+from .cgui import *
     
 
 class MainGUI:

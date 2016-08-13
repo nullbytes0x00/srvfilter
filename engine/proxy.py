@@ -24,6 +24,7 @@
 #!/usr/bin/env python
 
 import socket
+import ipwhois
 from ipwhois import IPWhois
 
 class Proxy:

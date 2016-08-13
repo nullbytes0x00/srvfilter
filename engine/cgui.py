@@ -24,7 +24,6 @@
 #!/usr/bin/env python
 
 import sys
-
 import threading
 
 try:
@@ -38,12 +37,10 @@ except ImportError:
     raise
     sys.exit("Python 3 is required!")
 
-try:
-    from parse import * 
-    from proxy import *
-except:
-    from engine.parse import *
-    from engine.proxy import *    
+
+from .parse import * 
+from .proxy import *
+   
 
 class CheckGUI:
 

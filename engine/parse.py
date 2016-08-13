@@ -23,6 +23,7 @@
 
 #!/usr/bin/env python
 
+import ipwhois
 from ipwhois.utils import get_countries
 countries = get_countries()
 
