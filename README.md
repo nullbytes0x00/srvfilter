@@ -1,5 +1,7 @@
 #SrvFilter
 
+![Example of use 1](https://raw.githubusercontent.com/nullbytes0x00/srvfilter/master/sfuse3.png)
+
 SrvFilter is a program which filters a list of IP addresses and ports based on the criteria specified by the user.
 It can be used in a number of ways. A good example is filtering proxy servers by their precise location information (city, region/state, country) - upon the filtering process, you will obtain a list of proxy servers only in the precise location which you desire (if such were present in the proxy list you inputed).
 
