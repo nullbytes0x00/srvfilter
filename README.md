@@ -6,7 +6,7 @@
 SrvFilter is a program which filters a list of IP addresses and ports based on the criteria specified by the user.
 It can be used in a number of ways. A good example is filtering proxy servers by their precise location information (city, region/state, country) - upon the filtering process, you will obtain a list of proxy servers only in the precise location which you desire (if such were present in the proxy list you inputed).
 
-This program was created by NullBytes0x00 (Arseny Denisov), and it's licensed under the GPLv3. It is therefore free software.
+This program was created by NullBytes0x00, and it's licensed under the GPLv3. It is therefore free software.
 
 Please note that this program is in its early stages of development, so the code is rather messy, and there are most likely
 some unresolved bugs. Contact me if you wish to report any bugs or to make suggestions.
